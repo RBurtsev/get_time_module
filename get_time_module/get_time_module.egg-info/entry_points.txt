@@ -1,0 +1,4 @@
+[console_scripts]
+get_time = get_time_package.get_time_module:main
+get_time_pretty = pretty_print.pretty_print_module:main
+
